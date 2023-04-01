@@ -1,1 +1,4 @@
-# jogo_da_velha
+# Jogo da velha
+
+Desenvolvimento para Android usando Kotlin e Jetpack Compose. 
+
